@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/siori-pwa/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/siori-pwa/static/js/main.ae85c137.chunk.js",
+    "main.js.map": "/siori-pwa/static/js/main.ae85c137.chunk.js.map",
+    "runtime-main.js": "/siori-pwa/static/js/runtime-main.dbf790a3.js",
+    "runtime-main.js.map": "/siori-pwa/static/js/runtime-main.dbf790a3.js.map",
+    "static/js/2.2eebd45d.chunk.js": "/siori-pwa/static/js/2.2eebd45d.chunk.js",
+    "static/js/2.2eebd45d.chunk.js.map": "/siori-pwa/static/js/2.2eebd45d.chunk.js.map",
+    "index.html": "/siori-pwa/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/siori-pwa/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.2eebd45d.chunk.js.LICENSE.txt": "/siori-pwa/static/js/2.2eebd45d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dbf790a3.js",
+    "static/js/2.2eebd45d.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.ae85c137.chunk.js"
+  ]
+}
